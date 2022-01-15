@@ -1,0 +1,7 @@
+Experience when make first project
+
++ Có 2 loại control: 
+    - container: JFrame(là cái nền kiểu v), JPanel()  
+    (là một cái view chứa các cái view khác)
+    - component: JButton (nút để nhấn vào), JLabel(hiển thị cái j đó ra màn hình), JCheckBox(hiển thị các check box)
+    (là thực hiện một cái function cụ thể)
